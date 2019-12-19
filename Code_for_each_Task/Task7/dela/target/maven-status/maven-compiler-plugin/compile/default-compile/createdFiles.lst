@@ -1,0 +1,16 @@
+se/sics/nstream/storage/durable/events/DStorageWrite$Response.class
+se/sics/nstream/storage/durable/DStoragePort.class
+se/kth/dela/MyStreamEndpoint.class
+se/kth/dela/MyStorageProvider.class
+se/sics/nstream/storage/durable/events/DStreamEvent.class
+se/kth/dela/MyStorageComp$Init.class
+se/kth/dela/MyStreamResource.class
+se/sics/nstream/storage/durable/events/DStorageRead$Request.class
+se/sics/nstream/storage/durable/events/DStorageWrite.class
+se/kth/dela/MyStorageComp.class
+se/sics/nstream/storage/durable/events/DStorageRead$Response.class
+se/sics/nstream/storage/durable/DurableStorageProvider.class
+se/sics/nstream/storage/durable/events/DStorageWrite$Request.class
+se/sics/nstream/storage/durable/util/DStreamEndpoint.class
+se/sics/nstream/storage/durable/events/DStorageRead.class
+se/sics/nstream/storage/durable/util/DStreamResource.class
